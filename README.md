@@ -7,7 +7,8 @@ The portfolio highlights my approach to clean design, structured code, and conti
 ---
 
 ## 🌐 Live Demo
-👉 (Add your GitHub Pages or Vercel link here once deployed)
+👉 (👉 https://gamelo741-cyber.github.io/portfolio/
+)
 
 ---
 
