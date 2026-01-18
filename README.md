@@ -44,9 +44,9 @@ This project was built to:
 ---
 
 ## 📬 Contact
-- Email: *(add your email)*
-- GitHub: *(add your GitHub link)*
-- LinkedIn: *(add your LinkedIn link)*
+- Email: gamelo741@gmail.com
+- GitHub: 
+- LinkedIn: https://www.linkedin.com/in/gamel-omar-790a56365/
 
 ---
 
