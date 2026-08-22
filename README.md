@@ -1,8 +1,6 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website, created to showcase my skills, learning journey, and projects as a **Junior Full-Stack Developer**.
-
-The portfolio highlights my approach to clean design, structured code, and continuous learning in web development.
+Personal portfolio website built with HTML and CSS, showcasing my skills and projects as a Junior Frontend Developer.
 
 ---
 
